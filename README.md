@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imesh Ramanayaka</h1>
-<h3 align="center">A passionate Frontend Developer from Sri Lanka 🇱🇰</h3>
+<h3 align="center">A passionate BackEnd Developer from Sri Lanka 🇱🇰</h3>
 
 <p align="center">
   📫 Reach me at <b>imeshramanayaka988@gmail.com</b><br/>
@@ -14,6 +14,7 @@
   <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="44" height="44" style="margin: 10px;"/>
   </a>
+  <br>
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="44" height="44" style="margin: 10px;"/>
   </a>
