@@ -13,7 +13,7 @@
 <p align="center">
   <!-- Row 1 -->
   <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="44" height="44" style="margin:10px;"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="44" height="44" style="margin:20px;"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="44" height="44" style="margin:10px;"/>
